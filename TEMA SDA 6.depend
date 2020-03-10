@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555021620 source:e:\probleme c\tema sda 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
